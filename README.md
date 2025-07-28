@@ -3,7 +3,6 @@ NT3 (Native Ternary Transformer Training) is a groundbreaking framework that tra
 - **🔥 10× Memory Reduction** during training
 - **⚡ 3× Training Speedup** compared to FP16 baselines  
 - **📦 4× Model Compression** with native ternary weights
-- 
 ## ✨ Key Features
 
 ### 🎯 Core Innovations
